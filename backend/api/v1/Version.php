@@ -18,6 +18,14 @@ class Version extends \tecnocen\roa\modules\ApiVersion {
 		'negocios',
 		'promociones',
 		'clientes',
+		'clientes-negocio',
+		'pedidos',
+		'productos',
+		'licencias',
+		'licencia-negocios',
+		'licencia-codigos',
+		'comentarios-clientes',
+		'productos-pedidos',
 	];
 
 	/**
